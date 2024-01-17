@@ -9,5 +9,4 @@ public class DialogflowChatbotApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DialogflowChatbotApplication.class, args);
 	}
-
 }
